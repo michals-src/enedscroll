@@ -1,0 +1,4 @@
+/docs
+!*.sql
+!*/docs/wp-content/plugins/enedScroll-addon
+!*/docs/wp-content/themes/enedScroll
